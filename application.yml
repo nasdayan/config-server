@@ -1,3 +1,4 @@
-groups:
-  - group1
-  - group2
+application:
+  groups:
+    - group1
+    - group2
