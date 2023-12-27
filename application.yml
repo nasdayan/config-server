@@ -3,7 +3,6 @@ groups:
     permissions:
       - subscriber
       - publisher
-      
   - name: group2
     permissions:
       - subscriber
