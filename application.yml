@@ -1,12 +1,3 @@
 groups:
   - name: group1
-    permissions:
-      - subscriber
-      - publisher
-      
   - name: group2
-    permissions:
-      - subscriber
-      - publisher
-      - logging
-      - monitoring
