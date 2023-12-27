@@ -1,11 +1,11 @@
 groups:
   - name: group1
-    permission:
+    permissions:
       - subscriber
       - publisher
       
   - name: group2
-    permission:
+    permissions:
       - subscriber
       - publisher
       - logging
