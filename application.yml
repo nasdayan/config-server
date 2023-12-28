@@ -7,6 +7,6 @@ application:
       - name: group2
         permissions:
           - subscriber
-            - publisher
-            - logging
-            - monitoring
+          - publisher
+          - logging
+          - monitoring
