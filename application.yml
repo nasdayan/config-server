@@ -1,11 +1,11 @@
 groups:
-  group1:
-    permissions:
-      - subscriber
-      - publisher
-  group2:
-    permissions:
-      - subscriber
-      - publisher
-      - logging
-      - monitoring
+  - group1:
+      permissions:
+        - subscriber
+        - publisher
+  - group2:
+      permissions:
+        - subscriber
+        - publisher
+        - logging
+        - monitoring
