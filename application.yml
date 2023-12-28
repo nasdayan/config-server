@@ -1,12 +1,12 @@
-groups:
+application:
   groups:
-    - group1:
+      - name: group1
         permissions:
           - subscriber
           - publisher
-    - group2:
+      - name: group2
         permissions:
           - subscriber
-          - publisher
-          - logging
-          - monitoring
+            - publisher
+            - logging
+            - monitoring
