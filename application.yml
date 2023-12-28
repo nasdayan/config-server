@@ -10,4 +10,3 @@ application:
           - publisher
           - logging
           - monitoring
-          - monitoring3
